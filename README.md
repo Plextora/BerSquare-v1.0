@@ -1,20 +1,3 @@
 # BerSquare!
 
-## An open source shooter, featuring blocks!
-Controls: Space/Left click to shoot. Shift/ESC key to pause.
-
-Features in this game:
-
-Cool lighting
-2 gamemodes, including a "spray and pray" gamemode. (Which is basically just an AK-47 on steroids)
-
-
-Score
-
-
-Highscore
-
-Game over screen
-
-
-And more!
+## This is an archive of the v1.0 version of this game. Please visit [this repo](https://github.com/Plextora/BerSquare) for the actively maintained version (v1.1 and above)
